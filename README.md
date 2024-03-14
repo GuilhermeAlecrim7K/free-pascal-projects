@@ -1,5 +1,4 @@
 # Learn Free Pascal
-
 ## What is this repository?
 
 It's a repository where I record my studies and findings in Free Pascal. The objective is to learn the language while developing small software projects.
@@ -126,3 +125,8 @@ The short answer is no. Although I'll use Lazarus for some projects and tasks, m
 
 Mainly because I work with Delphi and the IDE is not my cup of tea for coding. I use other editors like VSCode and Neovim for text editing, code navigation and small dfm file changes. I stick to Delphi for debugging and visual development. One day, I decided to try and make my life easier by developing a Language Server Client for Object Pascal. After some consideration, I decided to employ FPC for that task. This repository is the first step towards achieving that. Who knows, maybe it'll be helpful to the community as well.
 
+## Project Structure
+
+### "Forge" directory
+
+- Everything you find in this directory was created and developed without the assistance of Lazarus.
