@@ -1,0 +1,1 @@
+Build a program that converts temperatures between Celsius and Fahrenheit. Prompt the user to enter a temperature in one unit and output the equivalent temperature in the other unit.
