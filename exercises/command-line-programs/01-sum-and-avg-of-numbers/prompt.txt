@@ -1,0 +1,7 @@
+Find the sum and average of five integers.
+
+The sum should be an integer, and the average should be real.
+
+The five numbers are: 45, 7, 68, 2, and 34.
+
+Use a constant to signify the number of integers handled by the program, i.e. define a constant as having the value 5. 
